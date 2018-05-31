@@ -1,0 +1,74 @@
+/* header */
+
+.bg-1 {
+    background-image: url("../images/ancient-alien-background.jpg");
+    background-repeat: repeat;  
+    background-color: #ffffff;
+    padding: 30px;
+}
+
+h1 {
+    font-family: 'Cairo', sans-serif;  
+}
+
+h4 {
+    font-family: 'Cairo', sans-serif;
+}
+
+ a {
+    color: #BF0A30;
+    font-size: 16px;
+    font-family: 'Cairo', sans-serif;
+    line-height: 150%; 
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: none;
+    color: #BF0A30;
+    background-color: none; 
+
+}
+
+
+/*body*/
+body {
+    background-image: url("../images/akhenaten_nefertiti_and_their_children-ancient-aliens-29366569.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-size: 200px; 
+    background-repeat: repeat;
+    background-color: #ffffff; */
+}
+
+.site-content {
+    padding-bottom: 25px;    
+    margin-bottom: 25px;   
+}
+
+.guess-content {
+    padding-top: 30px;
+    padding-bottom: 30px;   
+}
+
+
+
+/* footer */ 
+
+.bg-3 {
+    /* background-image: url("../images/ancient-alien-background.jpg"); */
+    /* background-size: 100px; 
+    background-repeat: repeat; */
+    font-family: 'Cairo', sans-serif;
+    font-size: 16px;
+    color:#918b77;
+    background-color: #000000;
+    padding: 10px;
+    line-height: 150%;
+}
+
+/* transparency */
+
